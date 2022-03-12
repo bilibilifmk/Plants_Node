@@ -1,4 +1,4 @@
-# 花花草草服务端
+# 花花草草服务端 咕咕咕～～～～
 服务平台地址：keai.icu/hhcc
 
 ## [ESP_Plants_Node](https://github.com/bilibilifmk/ESP_Plants_Node)为硬件端 [Plants_Node](https://github.com/bilibilifmk/Plants_Node)为服务端 分为两个项目管理
